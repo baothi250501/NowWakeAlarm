@@ -1,6 +1,8 @@
 # NowWakeAlarm
 
-An app for headvy sleeper
+An app for headvy sleeper  
+
+Wake you up with some Challenges
 
 -----------------------------------------
 
@@ -11,7 +13,7 @@ HCMUS CSC13009 - Mobile Dev
 🧑 **Nguyễn Đăng Tiến Thành**
 - Github: [@tienthanh214](https://github.com/tienthanh214)
 
-👶 **Lê Công Bình**
+👽 **Lê Công Bình**
 - Github: [@binhlecong](https://github.com/binhlecong)
 
 👧 **Nguyễn Lê Bảo Thi**
