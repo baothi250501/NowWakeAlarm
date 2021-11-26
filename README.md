@@ -23,4 +23,4 @@ HCMUS CSC13009 - Mobile Dev
 
 ## Demo
 ### Home Screen
-<img src="https://user-images.githubusercontent.com/66853454/143523954-1d3c45e3-a044-4157-8336-33c20bf970d1.jpg" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/66853454/143523954-1d3c45e3-a044-4157-8336-33c20bf970d1.jpg" width="540" height="1170">
