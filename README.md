@@ -4,7 +4,7 @@ An app for headvy sleeper
 
 -----------------------------------------
 
-Midterm Hackathon \\
+Midterm Hackathon  
 HCMUS CSC13009 - Mobile Dev
 
 ## Authors:
